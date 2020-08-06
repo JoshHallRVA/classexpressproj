@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JoshHallRVA/classexpressproj#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.1",asdfasdfasdfasd
     "nodemon": "^2.0.4"
   }
 }
